@@ -1,0 +1,9 @@
+langchain
+langchain-community
+faiss-cpu
+openai
+python-dotenv
+tqdm
+sentence-transformers
+langchain-nvidia-ai-endpoints
+jupyter
